@@ -29,5 +29,7 @@ namespace TestProject.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<TestProject.Models.Product> Products { get; set; }
     }
 }
