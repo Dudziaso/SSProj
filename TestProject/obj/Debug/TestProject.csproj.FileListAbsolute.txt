@@ -133,6 +133,5 @@ C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\bin\Microsoft.Owi
 C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
 C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\obj\Debug\TestProject.dll
 C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\obj\Debug\TestProject.pdb
