@@ -137,3 +137,5 @@ C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\obj\Debug\TestPro
 C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\obj\Debug\TestProject.pdb
 C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\obj\Debug\TestProject.Migrations.addNewFieldsToUserIdentity.resources
 C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\obj\Debug\TestProject.Migrations.addUserPropertyToSecureObjects.resources
+C:\Users\dudzi\Documents\GitHubVisualStudio\SSProj\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
