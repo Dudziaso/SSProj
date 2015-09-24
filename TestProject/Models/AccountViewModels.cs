@@ -65,6 +65,8 @@ namespace TestProject.Models
     public class RegisterViewModel
     {
         [Required]
+        public string CompanyName { get; set; }
+        [Required]
         [EmailAddress]
         [Display(Name = "Email")]
         public string Email { get; set; }
