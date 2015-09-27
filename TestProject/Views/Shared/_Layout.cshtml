@@ -29,6 +29,10 @@
                     {
                         <li>@Html.ActionLink("Klienci?", "Index", "SecureObjects")</li>
                     }
+                    @if (Request.IsAuthenticated)
+                    {
+                        <li>@Html.ActionLink("TEAMS?", "Index", "SecurityTeams")</li>
+                    }
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>

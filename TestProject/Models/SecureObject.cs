@@ -18,5 +18,10 @@ namespace TestProject.Models
         public string ObjectNumber { get; set; }
         public DateTime PaidUntil { get; set; }
         public ApplicationUser UserProfile { get; set; }
+        public virtual ICollection<SecurityTeam> SecurityTeama { get; set; }
+        public SecureObject()
+        {
+            this.SecurityTeama = new HashSet<SecurityTeam>();
+        }
     }
 }
