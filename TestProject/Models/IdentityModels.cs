@@ -41,5 +41,7 @@ namespace TestProject.Models
         public System.Data.Entity.DbSet<TestProject.Models.SecureObject> SecureObjects { get; set; }
 
         public System.Data.Entity.DbSet<TestProject.Models.SecurityTeam> SecurityTeams { get; set; }
+
+        public System.Data.Entity.DbSet<TestProject.Models.Komputer> Komputers { get; set; }
     }
 }
