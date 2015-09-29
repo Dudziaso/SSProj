@@ -173,7 +173,6 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\KomputersController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
-    <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Controllers\SecureObjectsController.cs" />
     <Compile Include="Controllers\SecurityTeamsController.cs" />
     <Compile Include="Global.asax.cs">
@@ -196,7 +195,6 @@
     <Compile Include="Models\Komputer.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
-    <Compile Include="Models\Product.cs" />
     <Compile Include="Models\SeciurityTeam.cs" />
     <Compile Include="Models\SecureObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -259,11 +257,6 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
-    <Content Include="Views\Products\Create.cshtml" />
-    <Content Include="Views\Products\Delete.cshtml" />
-    <Content Include="Views\Products\Details.cshtml" />
-    <Content Include="Views\Products\Edit.cshtml" />
-    <Content Include="Views\Products\Index.cshtml" />
     <Content Include="Views\SecureObjects\Create.cshtml" />
     <Content Include="Views\SecureObjects\Delete.cshtml" />
     <Content Include="Views\SecureObjects\Details.cshtml" />
